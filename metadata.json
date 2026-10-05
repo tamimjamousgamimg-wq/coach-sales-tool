@@ -1,0 +1,6 @@
+{
+  "name": "DM to Deposit — The 48-Hour Instagram Script Kit for Coaches",
+  "description": "An 8-step system with scripts, decision rules, and a tracking sheet to turn Instagram DMs into qualified, booked sales calls without closing in the DMs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
